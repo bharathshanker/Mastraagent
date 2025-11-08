@@ -1,0 +1,36 @@
+# Default configuration for monitoring LinkedIn profiles of digital leaders in
+# Indian gold loan companies. Update this file with real profile URLs and
+# company names before running in production.
+
+lookback_days = 365
+
+[[company]]
+name = "Muthoot Finance"
+  [[company.profile]]
+  name = "John Mathew"
+  title = "Chief Digital Officer"
+  url = "https://www.linkedin.com/in/john-mathew-example"
+
+  [[company.profile]]
+  name = "Anita Kurian"
+  title = "Head of Digital Strategy"
+  url = "https://www.linkedin.com/in/anita-kurian-example"
+
+[[company]]
+name = "Manappuram Finance"
+  [[company.profile]]
+  name = "Raghav Iyer"
+  title = "Chief Information & Digital Officer"
+  url = "https://www.linkedin.com/in/raghav-iyer-example"
+
+  [[company.profile]]
+  name = "Simran Kaur"
+  title = "Vice President - Digital Initiatives"
+  url = "https://www.linkedin.com/in/simran-kaur-example"
+
+[[company]]
+name = "IIFL Finance"
+  [[company.profile]]
+  name = "Vikas Sharma"
+  title = "Chief Digital Transformation Officer"
+  url = "https://www.linkedin.com/in/vikas-sharma-example"

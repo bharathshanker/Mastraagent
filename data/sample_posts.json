@@ -1,0 +1,55 @@
+{
+  "https://www.linkedin.com/in/john-mathew-example": [
+    {
+      "content": "Excited to announce that Muthoot Finance is expanding our digital gold loan platform with AI-assisted onboarding. #digital #expanding",
+      "published_at": "2025-04-10T09:30:00",
+      "url": "https://www.linkedin.com/posts/sample1",
+      "reactions": 245,
+      "comments": 32,
+      "metadata": {"media": "image"}
+    },
+    {
+      "content": "We are hiring for multiple product manager roles across our digital lending business. Reach out if you're passionate about financial inclusion!",
+      "published_at": "2025-04-12T15:45:00",
+      "url": "https://www.linkedin.com/posts/sample2",
+      "reactions": 198,
+      "comments": 47
+    }
+  ],
+  "https://www.linkedin.com/in/anita-kurian-example": [
+    {
+      "content": "Proud of the team for rolling out our new mobile-first gold loan journey. Next up: integrating conversational AI for customer support.",
+      "published_at": "2025-04-09T11:00:00",
+      "url": "https://www.linkedin.com/posts/sample3",
+      "reactions": 176,
+      "comments": 21
+    }
+  ],
+  "https://www.linkedin.com/in/raghav-iyer-example": [
+    {
+      "content": "Manappuram Finance is recruiting for cloud engineers to accelerate our digital core modernization.",
+      "published_at": "2025-04-11T13:15:00",
+      "url": "https://www.linkedin.com/posts/sample4",
+      "reactions": 152,
+      "comments": 18
+    }
+  ],
+  "https://www.linkedin.com/in/simran-kaur-example": [
+    {
+      "content": "Thrilled to share that we are piloting a new analytics suite to support omnichannel gold loan experiences.",
+      "published_at": "2025-04-08T10:05:00",
+      "url": "https://www.linkedin.com/posts/sample5",
+      "reactions": 120,
+      "comments": 10
+    }
+  ],
+  "https://www.linkedin.com/in/vikas-sharma-example": [
+    {
+      "content": "IIFL Finance is hiring for senior UX designers to craft intuitive digital journeys for our customers.",
+      "published_at": "2025-04-13T08:20:00",
+      "url": "https://www.linkedin.com/posts/sample6",
+      "reactions": 210,
+      "comments": 40
+    }
+  ]
+}
